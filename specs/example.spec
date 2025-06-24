@@ -17,7 +17,7 @@ Tags:emre's-deneme
 
 Get1
 -------------
-Tags:emre1
+Tags:emre1's-deneme2
 * "accept" key "application/json" value degerini headera ekle
 * "api_key" key "emre" value degerini headera ekle
 * Jobject Oluştur
@@ -26,7 +26,7 @@ Tags:emre1
 
 Post
 -------------
-Tags:emre2
+Tags:emre2"deneme
 * Jobject Oluştur
 * "id" key ve "1" value degerini JObjecte ekle
 * "username" key ve "emre" value degerini JObjecte ekle
