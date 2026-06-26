@@ -24,7 +24,7 @@ Tags:ikinci
 * "https://petstore.swagger.io/v2/pet/12" apiye "get" methoduyla istek at
 * status kod "200" ile ayni mi kontrol et
 
-üçüncü - test
+# üçüncü - test
 -------------
 Tags:ucuncu
 * Jobject Oluştur
@@ -35,7 +35,7 @@ Tags:ucuncu
 * status kod "200" ile ayni mi kontrol et
 
 
-dördüncü / test
+# dördüncü / test
 ------------------
 Tags:dorduncu
 * "emre" keyli "emreKaraddd" degeri hashmap'e ekle
