@@ -26,7 +26,7 @@ Tags:ikincitest
 
 ## üçüncü - test
 -------------
-Tags:üçüncüTest
+Tags:ucuncuTest
 * Jobject Oluştur
 * "id" key ve "1" value degerini JObjecte ekle
 * "username" key ve "emre" value degerini JObjecte ekle
@@ -37,7 +37,7 @@ Tags:üçüncüTest
 
 ## dördüncü - test
 ------------------
-Tags:dördüncüTEST
+Tags:dorduncuTEST
 * "emre" keyli "emreKaraddd" degeri hashmap'e ekle
 * "emre" json pathindeki requestBodyi hazırla
 * "https://reqres.in/api/users" requestBodydeki degerlerle servise "post" methoduyla istek at
